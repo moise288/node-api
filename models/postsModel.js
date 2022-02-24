@@ -1,4 +1,4 @@
-const mongoose = require('mongoose')
+/*const mongoose = require('mongoose')
 
 const PostsModel = mongoose.model(
     "node-api",
@@ -18,4 +18,6 @@ const PostsModel = mongoose.model(
     },
     "posts"
 );
-module.exports = {PostsModel}
+
+
+module.exports = {PostsModel, UserModel}*/
